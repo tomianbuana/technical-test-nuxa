@@ -83,7 +83,7 @@ public class AsuhanKeperawatan {
     }
 
     public void addAsuhanPerawat() {
-        
+
     }
 
     // Delete Pasien dari IGD
